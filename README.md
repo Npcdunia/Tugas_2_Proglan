@@ -1,7 +1,3 @@
-Siap! 💪 Berikut contoh **README.md** profesional dan rapi untuk program **Stat Karakter** milikmu (yang sudah ada Javadoc-nya dan siap untuk dijadikan tugas GitHub Tugas 3 👇).
-
----
-
 ## ⚔️ Program Stat Karakter
 
 ### 📘 Deskripsi
@@ -133,5 +129,3 @@ Proyek ini dibuat untuk keperluan pembelajaran dan tugas akademik.
 Diperbolehkan untuk digunakan atau dimodifikasi dengan mencantumkan sumber asal.
 
 ---
-
-Apakah kamu mau saya tambahkan contoh **bagian "Kontributor" dan "Tanggal Pengerjaan"** biar lebih lengkap untuk laporan tugas juga?
