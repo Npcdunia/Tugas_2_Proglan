@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 import java.util.Scanner;
 
 /**
@@ -13,6 +15,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         DataKarakter database = new DataKarakter();
+        System.out.println("==========================");
 
         int pilihan = getPilihan(database, input);
 
@@ -42,5 +45,5 @@ public class Main {
         int pilihan = input.nextInt();
         return pilihan;
     }
+    
 }
-//sembarang1
