@@ -85,7 +85,6 @@ Program ini dikelola menggunakan **Git dan GitHub** dengan branch pengembangan:
 | Branch         | Deskripsi                                                                       |
 | -------------- | ------------------------------------------------------------------------------- |
 | `main`         | Branch utama berisi versi stabil program                                        |
-| `fitur-damage` | Branch pengembangan berisi fitur tambahan (contoh: perhitungan damage maksimum) |
 
 #### Contoh Perintah Git:
 
@@ -95,12 +94,6 @@ git add .
 git commit -m "Initial commit - Program Stat Karakter"
 git branch fitur-damage
 git checkout fitur-damage
-# Tambahkan fitur baru
-git add .
-git commit -m "Menambahkan fitur hitung damage maksimum"
-git checkout main
-git merge fitur-damage
-git push origin main
 ```
 
 ---
