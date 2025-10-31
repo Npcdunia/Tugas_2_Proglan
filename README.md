@@ -105,24 +105,6 @@ git push origin main
 
 ---
 
-### 🏆 Fitur Tambahan (untuk Tugas 3)
-
-Sebagai pengembangan dari Tugas 2, ditambahkan method baru:
-
-```java
-/**
- * Menghitung damage maksimum berdasarkan attack dan CDM
- * @return nilai damage maksimum
- */
-public double hitungDamageMaks() {
-    return attack * (1 + CDM / 100);
-}
-```
-
-Method ini menghitung perkiraan damage maksimum yang dapat dihasilkan oleh karakter berdasarkan statistiknya.
-
----
-
 ### 📄 Lisensi
 
 Proyek ini dibuat untuk keperluan pembelajaran dan tugas akademik.
